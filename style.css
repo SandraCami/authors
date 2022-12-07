@@ -1,0 +1,49 @@
+h5 {
+    font-family:fantasy;
+}
+h2 {
+    font-family: cursive;
+}
+hr{
+    color:red;
+}
+
+#homepage {
+
+    font-family:Caveat;
+}
+
+body {
+    background-image: url("veryveryoldpaper.jpg");
+    margin:3em;
+}
+
+/* Nav Bar Below */
+
+ul#Nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+ul#Nav li {
+  float: left;
+}
+
+ul#Nav li a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul#Nav li {
+  background-color: #111;
+}
+
+.active {
+  background-color: #04AA6D;
+}
